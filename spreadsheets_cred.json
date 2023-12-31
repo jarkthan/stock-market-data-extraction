@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bamboo-almanac-377905",
+  "private_key_id": "b3d7f27cf6bee6d1f079f2d86d5cafeec29d8495",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8GqhSYDqNQaJs\nST13UiA+SVnrDU7puCjgDKzZoacZqYqqNm+xufPUooiF52mWBMltBby9tRoKPAnM\nMnFLE7zmeNEkAVRimuFsk42UNIcEdUgIXAXtHsVELGo1xhD7NTu9+NAX7En0+76+\nxcOCp2uG6N04EvzBE5OS64eUbmtkiBLEUrY8LDJ1y3f+8SDyjJ8TDiSTl0tyL9Iu\nGpr5zsVpunpyTbaqlc+1hiIbb3hNRDcAdyMJmCm3v+bQQwVmt3DZlo7sUuymxi9b\n48j6yuOOv7NwunMqNnoqWKAO48xqIYcO1TGz1AqLf7YMuQ6LM8Dbf7YB6aBy07LH\nDsMpd3x9AgMBAAECggEABGtc6oiLv59b5U7oNIo3qzb2d50JrliPD0qE8h0H68St\ntxeN0r9jcOq7qee4tZdZsyfIGi3r1XM5KLTDsCefz8tlYILufF2Wr8IcuK9uP6bQ\nwS+GTR6ktFgVy7siUYCb7XfvzawVxb13awyC7iooTtRgRC3ABfpDhJdniU950vQM\nJM+UabiEVeadrEEFUvATRCKJHXwi1u79KJbkMEmoHib8HhkMJ47ehJbaCOe2WWna\nTlK7k+LTKzE9b/oaL2wzggxSVU2cHpFFDUNNeUJwAFZesKOjjHR4MKz4npvwJtTx\n4xk2g2f6Px46HkapqAK62iFOq4EwGRsyljUKrnPhiQKBgQDrHuZhixnkjPMbIDZe\n9UEsscQB1c5Tqyt5weZIT2Ek9Kj6zevKcV/SmI7YjkMhmDI/WCP8mZe3wZyRjQ02\nuNX09LF1LWYIJK2lw2Ooc/HDgrQXI7c2eyDJ4pgP/mKJ3cDVanabOLxc7HgoBXWp\n0v070ws1GHS4C5Nb5IKu2ZCC5QKBgQDMzujdTt1XRn/mWQYPmTj1O99QKy80s01R\njShDrCh6X6/RLeTvkp0ZbQrNZSV6znl4RcRuiIqZR38LvT0t0VrTA85iVuWsUvq3\nJU5VjbiekT3bulDkImzToMyxOFs526Bgf+ZyIg+2v+l2wFkPZiQBIN5x5YgYB5or\n1tiT6w4BuQKBgDEg7caoCCsHgKzEWFgTKyEpq+kuQcSd2aHBcFrfq07LiJuPd5t/\ngSRCGGcLot9cK/OseSiI93jADfUj4gTzLlHW51WyvMUq1NX0M9i5EWVm5DaJkfji\nVYGZxWhiITjpiyeM7WeVvVY1Ww4RxfpMSfm8KXVYvNrQIGRtJRlgAKA5AoGBAJKv\nVoS6qTiK26vE8txVJ0Asw4INi9+405Wm/cGKGeubgLbWofMcFLxTJrt4x+Eu5DzJ\n6ygnTuz9Efb8cEbSfLRJM5WnGxPS0pI9e982g5W9/InU5X6fUUY5EqGS9XN442J5\n+DiiQJLo3HMazC6FPyA3xFnaxSBAwaDIXZGDdiKxAoGAVVRwlZtkVXwcKhrCyxBC\nZ9dtd1stzDJoO/oIiP2OnCMWmRI5YfW5ma0F+Ujdy7kFBYk/M2iDh/YSkqMpREZr\nYRiqztYYDu5+BVzkiNWAmyScYf/VZ8/Fc72w+Pu+p0AmI3SKg4Pm153I7Yh019AV\nV5ZEoSOiMVsGD45sPMGRvqk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ggsheetpythonproject@bamboo-almanac-377905.iam.gserviceaccount.com",
+  "client_id": "112650823211488054689",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ggsheetpythonproject%40bamboo-almanac-377905.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
